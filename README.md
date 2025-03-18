@@ -58,7 +58,7 @@ Taskberry features a pleasant UI with strawberry vibes :).
    ```
 
 ## Deployment  
-You can test the live version of CashTrack here:  
+You can test the live version of Taskberry here:  
 🔗 [Taskberry Live Demo](https://katsakos-taskberry.netlify.app/)
 
 > **Note:** On Render.com’s free plan, backend servers go idle after 15 minutes of inactivity. If the app hasn’t been used recently, the first request may take up to one minute to respond.
